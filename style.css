@@ -125,6 +125,8 @@
 
 .main__rasm {
     width: 70%;
-    
-    transform: translate(21%, -151%);
+    position: absolute;
+    margin-top: -141%;
+    margin-left: 15%;
+    /* transform: translate(21%, -151%); */
 }
